@@ -1,0 +1,23 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "forbiddensteve:hat_display",
+      "materials": {
+        "default": "sheep"
+      },
+      "textures": {
+        "default": "textures/models/hat_display_grayscale"
+      },
+      "geometry": {
+        "default": "geometry.hat_display"
+      },
+      "render_controllers": ["controller.render.default"],
+      "enable_attachables": true,
+      "spawn_egg": {
+        "base_color": "#553a1f",
+        "overlay_color": "#edc888"
+      }
+    }
+  }
+}

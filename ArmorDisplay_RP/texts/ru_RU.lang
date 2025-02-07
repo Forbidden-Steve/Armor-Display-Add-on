@@ -1,0 +1,15 @@
+﻿## Переводы для книги
+forbiddensteve.menu_about_body=%1§eДополнение Armor Display!§r создано §3Forbidden Steve§f.%1§r
+forbiddensteve.menu_crafting_body=§eШляпная витрина%1§r§8█§a█§8█%1§8█§b█§8█%1§8█§8█§8█%1%1§r§eВитрина доспехов%1§r§8█§a█§8█%1§b█§a█§b█%1§8█§b█§8█%1%1§r- §a1 Доска%1§r- §b3 Палочки
+
+### Журнал изменений
+forbiddensteve.menu_about_changelog_p1=§7Версия 1.0.1§r%1- Скоро будет!
+forbiddensteve.menu_about_changelog_p2=%1§7Версия 1.0.0§r%1- Дополнение Armor Display выпущено.
+
+## Названия предметов
+item.spawn_egg.entity.forbiddensteve:hat_display.name=Яйцо вызова Шляпной витрины
+item.spawn_egg.entity.forbiddensteve:armor_display.name=Яйцо вызова Витрины доспехов
+
+## Названия сущностей
+entity.forbiddensteve:hat_display.name=Шляпная витрина
+entity.forbiddensteve:armor_display.name=Витрина доспехов

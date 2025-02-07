@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§7Armor Display (RP)",
+    "description": "Created by §3Forbidden Steve",
+    "uuid": "0c38d297-22cf-498a-bc94-6b8817124458",
+    "pack_scope": "world",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b821a79a-ca07-4ed5-aa2a-f3f588a58408",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "product_type": "addon",
+    "authors": ["Forbidden Steve"]
+  },
+  "dependencies": [{ "uuid": "1c5e8eb7-b1f4-4c97-98e1-c7c48bac9131", "version": [1, 0, 0] }]
+}

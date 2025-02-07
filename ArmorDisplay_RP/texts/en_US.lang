@@ -1,0 +1,15 @@
+## Guide Book Translations
+forbiddensteve.menu_about_body=%1§eArmor Display Add-On!§r created by §3Forbidden Steve§f.%1§r
+forbiddensteve.menu_crafting_body=§eHat Display%1§r§8█§a█§8█%1§8█§b█§8█%1§8█§8█§8█%1%1§r§eArmor Display%1§r§8█§a█§8█%1§b█§a█§b█%1§8█§b█§8█%1%1§r- §a1 Plank%1§r- §b3 Sticks
+
+### Change Log
+forbiddensteve.menu_about_changelog_p1=§7Version 1.0.1§r%1- Coming soon!
+forbiddensteve.menu_about_changelog_p2=%1§7Version 1.0.0§r%1- Armor Display Add-On is released.
+
+## Item Names
+item.spawn_egg.entity.forbiddensteve:hat_display.name=Hat Display Egg
+item.spawn_egg.entity.forbiddensteve:armor_display.name=Armor Display Egg
+
+## Entity Names
+entity.forbiddensteve:hat_display.name=Hat Display
+entity.forbiddensteve:armor_display.name=Armor Display

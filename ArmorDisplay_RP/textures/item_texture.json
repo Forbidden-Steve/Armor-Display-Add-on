@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "bridgeRP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "steves_guidebook": {
+      "textures": "textures/forbiddensteve/steves_guidebook"
+    }
+  }
+}

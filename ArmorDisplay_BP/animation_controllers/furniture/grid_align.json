@@ -1,0 +1,26 @@
+{
+  "format_version": "1.10.0",
+  "animation_controllers": {
+    "controller.animation.grid_align": {
+      "states": {
+        "default": {
+          "transitions": [
+            {
+              "start": "query.is_tamed"
+            }
+          ]
+        },
+        "start": {
+          "on_entry": [
+            "/tp @s[rym=46,ry=135] ~ ~ ~ 90 ~",
+            "/tp @s[rym=136,ry=180] ~ ~ ~ 180 ~",
+            "/tp @s[ry=-135,rym=-180] ~ ~ ~ 180 ~",
+            "/tp @s[rym=-134,ry=-45] ~ ~ ~ 270 ~",
+            "/tp @s[rym=0,ry=45] ~ ~ ~ 0 ~",
+            "/tp @s[rym=-44,ry=0] ~ ~ ~ 0 ~"
+          ]
+        }
+      }
+    }
+  }
+}
